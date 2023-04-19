@@ -9,11 +9,11 @@ Projeto Devs & Dragons da Alura, estudando Classes e Heranças no desenvolviment
 | -------------  | --- |
 | :sparkles: Nome        | **Devs & Dragons - HTML, CSS e JAVASCRIPT**
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
-| :rocket: URL         | https://adrianeboucinha.github.io/mochila-de-viagem-alura/
+| :rocket: URL         | https://adrianeboucinha.github.io/devs-dragons-alura/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-orientacao-a-objetos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev](https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev)
+![https://adrianeboucinha.github.io/devs-dragons-alura/#vitrinedev](https://adrianeboucinha.github.io/devs-dragons-alura/#vitrinedev)
 
 ## Detalhes do projeto
 
